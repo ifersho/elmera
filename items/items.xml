@@ -5095,6 +5095,16 @@
 		<attribute key="maxHitChance" value="200" />
 		<attribute key="skillmanachance" value="80" />
 	</item>
+		<item id="26347" article="a" name="VIP Arrow">
+		<attribute key="weight" value="70" />
+		<attribute key="slotType" value="ammo" />
+		<attribute key="attack" value="40" />
+		<attribute key="elementEnergy" value="20" />
+		<attribute key="weaponType" value="ammunition" />
+		<attribute key="ammoType" value="arrow" />
+		<attribute key="shootType" value="flasharrow" />
+		<attribute key="maxHitChance" value="115" />
+	</item>
 	
 <item id="26346" article="an" name="Enchanted Stone">
 		<attribute key="weight" value="30" />
