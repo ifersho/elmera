@@ -5086,6 +5086,20 @@
 		<attribute key="showattributes" value="1" />
 	</item>
 
+	<item id="26345" article="a" name="VIP Wand">
+		<attribute key="description" value="Power of the gods is contained in there" />
+		<attribute key="weight" value="2300" />
+		<attribute key="weaponType" value="wand,rod" />
+		<attribute key="shootType" value="death" />
+		<attribute key="range" value="9" />
+		<attribute key="maxHitChance" value="200" />
+		<attribute key="skillmanachance" value="80" />
+	</item>
+	
+<item id="26346" article="an" name="Enchanted Stone">
+		<attribute key="weight" value="30" />
+		<attribute key="description" value="Use to TP" />
+		
 	<item id="26344" article="a" name="pair of VIP boots (faster regeneration)">
 		<attribute key="weight" value="50" />
 		<attribute key="slotType" value="feet" />
