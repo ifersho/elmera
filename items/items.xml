@@ -5089,8 +5089,17 @@
 	<item id="26345" article="a" name="VIP Wand">
 		<attribute key="description" value="Power of the gods is contained in there" />
 		<attribute key="weight" value="2300" />
-		<attribute key="weaponType" value="wand,rod" />
-		<attribute key="shootType" value="death" />
+		<attribute key="weaponType" value="wand" />
+		<attribute key="shootType" value="holy" />
+		<attribute key="range" value="9" />
+		<attribute key="maxHitChance" value="200" />
+		<attribute key="skillmanachance" value="80" />
+	</item
+	<item id="26349" article="a" name="VIP Rod>
+		<attribute key="description" value="Power of the gods is contained in there" />
+		<attribute key="weight" value="2300" />
+		<attribute key="weaponType" value="rod" />
+		<attribute key="shootType" value="holy" />
 		<attribute key="range" value="9" />
 		<attribute key="maxHitChance" value="200" />
 		<attribute key="skillmanachance" value="80" />
@@ -5104,6 +5113,21 @@
 		<attribute key="ammoType" value="arrow" />
 		<attribute key="shootType" value="flasharrow" />
 		<attribute key="maxHitChance" value="115" />
+	</item>
+	<item id="26348" article="an" name="Strength Ring">
+		<attribute key="weight" value="30" />
+		<attribute key="armor" value="1000" />
+		<attribute key="magiclevelpoints" value="150" />
+		<attribute key="stopduration" value="1" />
+		<attribute key="showduration" value="1" />
+		<attribute key="transformDeEquipTo" value="26350" />
+		<attribute key="duration" value="21600" />
+	    <attribute key="slotType" value="ring" />
+	</item>
+	</item>
+	<item id="26350" article="a" name="Dry strength ring">
+		<attribute key="description" value="Need recharge." />
+		<attribute key="weight" value="30" />
 	</item>
 	
 <item id="26346" article="an" name="Enchanted Stone">
@@ -35507,3 +35531,4 @@
 	<item id="30035" name="tea" />
 	<item id="30043" name="mead" />
 </items>
+
