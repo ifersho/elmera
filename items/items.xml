@@ -5095,6 +5095,29 @@
 		<attribute key="maxHitChance" value="200" />
 		<attribute key="skillmanachance" value="80" />
 	</item
+	<item id="26353" article="a" name="Special Potion">
+		<attribute key="description" value="Infinite" />
+		<attribute key="weight" value="290" />
+		
+		</item>
+	<item id="26355" article="a" name="Special Amulet">
+		<attribute key="weight" value="200" />
+		<attribute key="slotType" value="necklace" />
+	    <attribute key="skillClub" value="6000" /> 
+	</item>  
+	
+	<item id="26351" article="a" name="VIP Regeneration Amulet">
+		<attribute key="description" value="Regenerative Power" />
+		<attribute key="weight" value="50"/>
+		<attribute key="slotType" value="necklace" />
+		<attribute key="healthGain" value="25" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="30" />
+		<attribute key="manaTicks" value="1000" />
+		<!-- <attribute key="showduration" value="1" /> -->
+		<attribute key="showattributes" value="1" />
+	</item>
+	
 	<item id="26349" article="a" name="VIP Rod>
 		<attribute key="description" value="Power of the gods is contained in there" />
 		<attribute key="weight" value="2300" />
@@ -5136,6 +5159,7 @@
 		<attribute key="duration" value="10800" />
 	    <attribute key="slotType" value="ring" />
 	</item>
+	
 	</item>
 	<item id="26350" article="a" name="Dry strength ring">
 		<attribute key="description" value="Need recharge." />
@@ -5155,6 +5179,7 @@
 		<attribute key="manaTicks" value="1000" />
 		<!-- <attribute key="showduration" value="1" /> -->
 		<attribute key="showattributes" value="1" />
+		<attribute key="speed" value="80" />
 	</item>
 	
 	
