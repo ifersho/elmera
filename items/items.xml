@@ -5128,12 +5128,12 @@
 	
 	<item id="26348" article="an" name="Strength Ring">
 		<attribute key="weight" value="30" />
-		<attribute key="armor" value="1000" />
-		<attribute key="magiclevelpoints" value="150" />
+		<attribute key="armor" value="500" />
+		<attribute key="magiclevelpoints" value="50" />
 		<attribute key="stopduration" value="1" />
 		<attribute key="showduration" value="1" />
 		<attribute key="transformDeEquipTo" value="26350" />
-		<attribute key="duration" value="21600" />
+		<attribute key="duration" value="10800" />
 	    <attribute key="slotType" value="ring" />
 	</item>
 	</item>
